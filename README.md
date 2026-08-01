@@ -1,73 +1,123 @@
-⚡ Blinkit Product Teardown
+# ⚡ Blinkit Product Teardown
 
-Research-driven Product Management Case Study on Increasing Basket Size and User Engagement
+> **Research-driven Product Management Case Study on Increasing Basket Size and Customer Engagement**
 
-This project analyzes Blinkit's end-to-end customer journey to identify opportunities for increasing average order value while preserving the speed and convenience expected from quick commerce.
+This project explores how Blinkit can increase average order value and customer engagement while preserving the speed and convenience that define the quick-commerce experience.
 
-Using customer research, competitive benchmarking, journey mapping, and product strategy frameworks, our team identified engagement gaps and proposed product improvements supported by product metrics and business impact analysis.
+Using user research, UX analysis, customer journey mapping, competitive benchmarking, and product strategy frameworks, our team identified key friction points in the shopping journey and proposed high-impact product improvements backed by business rationale and an interactive prototype.
 
-📄 Full Presentation: Blinkit_Product_Teardown.pdf
+📄 **Full Presentation:** [Blinkit_Product_Case_Study.pdf](./Blinkit_Product_Case_Study)
 
-🔍 Research Approach
+🎨 **Interactive Prototype:** 🔗 [View Prototype](https://raar257.github.io/proto/))
 
-Recommendations were developed through structured qualitative and competitive analysis.
+---
 
-Primary Research
-User interviews
-Customer surveys
-Frequent quick-commerce users
-Secondary Research
-Blinkit app analysis
-Industry reports
-Customer reviews
-Competitor benchmarking
-Deliverables
-User Personas
-Customer Journey Mapping
-UX Analysis
-Opportunity Identification
-💡 Key Insights
+## 🔍 Research Approach
 
-Research pointed toward one key conclusion:
+To ensure recommendations were backed by evidence rather than assumptions, we combined qualitative research with competitive analysis.
 
-Customers value convenience, but personalization drives larger baskets.
+### Primary Research
+
+- User interviews
+- Customer surveys
+- Frequent quick-commerce users
+- Students and working professionals
+
+### Secondary Research
+
+- Blinkit app analysis
+- Industry reports
+- Public customer reviews
+- Competitor benchmarking
+
+### Deliverables
+
+- User Personas
+- Customer Journey Mapping
+- UX Evaluation
+- Competitive Benchmark
+- Opportunity Identification
+
+---
+
+## 💡 Key Insights
+
+Research consistently pointed toward one conclusion:
+
+> **Customers value convenience, but personalization and contextual recommendations drive larger baskets.**
 
 Major findings:
 
-Discovery friction limits cross-category purchases.
-Users often purchase only planned items.
-Limited personalization reduces upselling opportunities.
-Checkout presents opportunities for higher-value recommendations.
-🚀 Proposed Solutions
-Feature	Goal
-Personalized Smart Recommendations	Increase Basket Size
-Contextual Cross-Selling	Improve Average Order Value
-Gamified Rewards	Increase User Engagement
-📈 Expected Business Impact
-Higher Average Order Value (AOV)
-Increased cross-category purchases
-Improved customer engagement
-Higher customer retention
-👨‍💼 My Contributions
+- Most users purchase only planned items.
+- Discovery friction limits cross-category purchases.
+- Checkout offers untapped upselling opportunities.
+- Personalized recommendations can improve both engagement and basket value.
+
+---
+
+## 🚀 Proposed Solutions
+
+| Feature | Goal |
+|----------|------|
+| Smart Cart Recommendations | Increase Average Order Value |
+| Personalized Discovery Feed | Improve Product Discovery |
+| Gamified Rewards | Increase User Engagement |
+
+---
+
+## 🎨 Interactive Prototype
+
+To validate the proposed shopping experience, we designed an interactive prototype demonstrating:
+
+- Smart cart recommendations
+- Personalized product discovery
+- Gamified reward experience
+- Improved checkout journey
+
+The prototype helped visualize how these product interventions could improve engagement without increasing shopping friction.
+
+🔗 **View Prototype:** (Add Link)
+
+---
+
+## 📈 Expected Business Impact
+
+| Metric | Expected Impact |
+|---------|-----------------|
+| Average Order Value | ↑ Increase |
+| Cross-category Purchases | ↑ Increase |
+| User Engagement | ↑ Increase |
+| Customer Retention | ↑ Increase |
+
+---
+
+## 👨‍💼 My Contributions
+
+This was a collaborative Product Management project.
 
 I contributed to:
 
-Product teardown
-UX evaluation
-Customer journey mapping
-Competitive analysis
-Feature ideation
-Product metrics
-Business impact estimation
-Final presentation
-📚 Skills Demonstrated
-Product Management
-Product Teardown
-UX Analysis
-User Research
-Journey Mapping
-Competitive Benchmarking
-Product Strategy
-Product Metrics
-Business Analysis
-Product Storytelling
+- Product teardown
+- User research
+- UX evaluation
+- Customer journey mapping
+- Feature ideation
+- Product metrics
+- Business impact estimation
+- Final presentation
+
+---
+
+## 📚 Skills Demonstrated
+
+- Product Strategy
+- Product Thinking
+- UX Analysis
+- User Research
+- Customer Journey Mapping
+- Competitive Benchmarking
+- Product Metrics
+- Business Analysis
+- Product Storytelling
+
+---
