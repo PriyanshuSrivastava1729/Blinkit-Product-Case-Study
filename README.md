@@ -6,7 +6,7 @@ This project explores how Blinkit can increase average order value and customer 
 
 Using user research, UX analysis, customer journey mapping, competitive benchmarking, and product strategy frameworks, our team identified key friction points in the shopping journey and proposed high-impact product improvements backed by business rationale and an interactive prototype.
 
-📄 **Full Presentation:** [Blinkit_Product_Case_Study.pdf](Blinkit_Product_Case_Study)
+📄 **Full Presentation:** [Blinkit_Product_Case_Study.pdf](Blinkit_Product_Case_Study.pdf)
 
 🎨 **Interactive Prototype:** 🔗 [View Prototype](https://raar257.github.io/proto/)
 
